@@ -1,1 +1,10 @@
-{"contributes": {"snippets": [{"language": "cython", "path": "cython.json"}, {"language": "cython", "path": "snippets/python/python/cython.json"}, {"language": "cython", "path": "snippets/python/comprehension/cython.json"}, {"language": "cython", "path": "snippets/python/unittest/cython.json"}, {"language": "cython", "path": "snippets/python/debug/cython.json"}]}}
+{
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cython",
+        "path": "cython.json"
+      }
+    ]
+  }
+}
